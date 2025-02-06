@@ -5,4 +5,4 @@ Cython==0.29.36
 fastapi==0.75.0
 uvicorn==0.17.6
 pandas==1.4.2
-joblib==1.1.0
+joblib==1.1.1
